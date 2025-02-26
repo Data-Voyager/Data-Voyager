@@ -1,4 +1,4 @@
-*👋 Hi, I’m Khan Ali**  
+* * 👋 Hi, I’m Khan Ali**  
 🚀 **Java Developer | Backend Engineer | Cloud-Native Solutions Architect**  
 
 **👀 I’m interested in...**  
